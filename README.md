@@ -3,7 +3,7 @@
 🎯 Aspiring Software Developer currently focused on learning and building projects with Python.  
 💡 Passionate about building robust, scalable solutions that improve real-world processes.
 
-🌐 Portfolio:[carlosterrez.dev](https://carlosterrez.dev/)
+🌐 Portfolio: [carlosterrez.dev](https://carlosterrez.dev/)
 
 ---
 
